@@ -5,7 +5,7 @@ Ce projet a été réalisé en groupe de 4, dans le cadre d'un projet scolaire p
 * GUISEPPIN Léo  
 * MATHIEU Damien  
 
-Le programme a pour but d'analyser une adresse IP pour en rstituer la classe, le type, l'adresse réseau et l'adresse hôte.
+Le programme a pour but d'analyser une adresse IP pour en restituer la classe, le type, l'adresse réseau et l'adresse hôte.
 
 #### !IMPORTANT! 
 Nous n'avons pas réussi à mener à bien le projet malgré notre bonne volonté à le réaliser. Le programme ne compile pas.  
