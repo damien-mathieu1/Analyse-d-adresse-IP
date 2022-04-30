@@ -11,6 +11,7 @@ CEPENDANT, nous avons tout de même tenu à rendre notre travail bien que cela n
 permettant l'analyse d'une adresse IP.  
 
 DESCRIPTION DES FONCTIONS :   
+
 Fonctions pour la lecture de la saisie utilisateur :  
 int lire(char \*chaine, int longueur)  
 La fonction lire permet de récupérer la saisie utilisateur d'une manière sécuriser et vide le buffer une fois la saisie effectué pour ne pas surcharger le buffer.  
