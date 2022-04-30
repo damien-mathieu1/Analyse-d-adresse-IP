@@ -10,5 +10,5 @@ Ce projet a été réalisé en groupe de 4, dans le cadre d'un projet scolaire p
 CEPENDANT, nous avons tout de même tenu à rendre notre travail bien que cela ne fonctionne pas. Nous avons essayé de développer les fonctions 
 permettant l'analyse d'une adresse IP.
 
-DESCRIPTION DES FONCTIONS :
+DESCRIPTION DES FONCTIONS : \n
 Fonctions pour la lecture de la saisie utilisateur :
