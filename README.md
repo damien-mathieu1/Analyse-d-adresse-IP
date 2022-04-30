@@ -5,14 +5,16 @@ Ce projet a été réalisé en groupe de 4, dans le cadre d'un projet scolaire p
 -GUISEPPIN Léo  
 -MATHIEU Damien  
 
-!IMPORTANT! Nous n'avons pas réussi à mener à bien le projet malgré notre bonne volonté à le réaliser. Le programme ne compile pas.  
+###### !IMPORTANT! 
+Nous n'avons pas réussi à mener à bien le projet malgré notre bonne volonté à le réaliser. Le programme ne compile pas.  
 
 CEPENDANT, nous avons tout de même tenu à rendre notre travail bien que cela ne fonctionne pas. Nous avons essayé de développer les fonctions
 permettant l'analyse d'une adresse IP.  
 
 # DESCRIPTION DES FONCTIONS :   
 
-## Fonctions pour la lecture de la saisie utilisateur >lecture.c :  
+## Fonctions pour la lecture de la saisie utilisateur :
+> fichier : lecture.c 
 
 ### -int lire(char \*chaine, int longueur)  
 
