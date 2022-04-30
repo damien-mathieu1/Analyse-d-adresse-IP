@@ -46,5 +46,23 @@ Les deux derniers paramètres sont les délimiteurs du point de départ de l'ext
 La fonction charToInt permet de changer une chaine de caractère en 1 entier, elle prend une chaine de caractère en entrée et renvoie un int correspondant à la valeur numérique de la chaine en entrèe.
 
 ## Fonctions pour l'analyse du type et de la classe de l'adresse IP
+> fichier : classeIP.c, typeAdresse.c
 
-###
+### -char classeIP(int ip1,int ip2, int ip3, int ip4)
+
+La fonction classeIP renvoie une valeur de type char qui correpond à la lettre de la classe de l'adresse IP. Elle prend 4 paramètres en entrée qui sont les 4 champs d'une adresse IP (en omettant évidant le CIDR de fin). Ces 4 paramètres sont extrait de l'adrese IP grâce à la fonction d'extraction puis traduit en entier grâce à la fonction charToInt.
+
+### -int typeAdresse(int ip1,int ip2, int ip3, int ip4,int CIDR)
+
+La fonction typeAdresse renvoie un entier qui est assimilé à un type d'adresse lors du traitement de la fonction dans le programme principal (main). Tout comme classeIP elle prend les 4 champs de l'adresse IP en paramètre mais elle prend également la partie CIDR de l'adresse IP. Ces 5 paramètres sont tous des entiers.
+
+## Fonctions pour l'analyse de l'adresse réseau et de l'adresse hôte
+> fichier : aucun
+
+Nous n'avons pas réussi à comprendre comment nous pouvions trouver l'adresse du réseau et l'adresse de l'hôte à l'aide du CIDR, nous n'avons donc pas pu essayer de réaliser cette fonction.
+
+-------
+
+Encore une fois, nous sommes désolés de ne pas avoir réussi à rendre un programme fonctionnel.
+
+
