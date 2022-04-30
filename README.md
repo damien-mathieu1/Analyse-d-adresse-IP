@@ -29,4 +29,6 @@ La fonction clearBuffer ne prend pas de paramètre en entrée et ne renvoie rien
 ### -int verifierChaine(char \*ip)
 
 La fonction verifierChaine a pour but de vérifier si le format de l'adresse IP saisie est bien concordant à ce que peut être une adresse IP.
+Elle prend en paramètre un pointeur vers une chaine de caractère (celle saisie par l'utilisateur) et renvoie un entier correpondant à l'état, 0 si l'adresse IP n'est pas  
+concordante a une bonne adresse et 1 autrement.
 
