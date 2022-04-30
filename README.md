@@ -37,4 +37,14 @@ concordante a une bonne adresse et 1 autrement.
 
 ### -int  extraireChamp(char \*source, char \*target,int from, int to)
 
+La fonction extraireChamp prend 4 paramètres d'entrée et renvoie un paramètre d'état sous forme d'entier 0 : bon, 1 : pas bon. Cette fonction extrait une partie d'une chaine de caractère et l'ajoute à une autre chaine de caractère.
+Les deux premiers paramètres sont des pointeurs sur des chaines de caractère, l'un pour la chaine source et l'autre pour la chaine destinataire. 
+Les deux derniers paramètres sont les délimiteurs du point de départ de l'extraction au point de fin de l'extraction.
 
+### -int charToInt(char c)
+
+La fonction charToInt permet de changer une chaine de caractère en 1 entier, elle prend une chaine de caractère en entrée et renvoie un int correspondant à la valeur numérique de la chaine en entrèe.
+
+## Fonctions pour l'analyse du type et de la classe de l'adresse IP
+
+###
