@@ -1,9 +1,9 @@
 # Analyse d'adresse IP
 Ce projet a été réalisé en groupe de 4, dans le cadre d'un projet scolaire pour l'IUT Informatique de Toulouse :  
--CAUJOLLE Virgile  
--PATOUT Tristan  
--GUISEPPIN Léo  
--MATHIEU Damien  
+* CAUJOLLE Virgile  
+* PATOUT Tristan  
+* GUISEPPIN Léo  
+* MATHIEU Damien  
 
 #### !IMPORTANT! 
 Nous n'avons pas réussi à mener à bien le projet malgré notre bonne volonté à le réaliser. Le programme ne compile pas.  
