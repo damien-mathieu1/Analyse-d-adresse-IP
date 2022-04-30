@@ -61,6 +61,11 @@ La fonction typeAdresse renvoie un entier qui est assimilé à un type d'adresse
 
 Nous n'avons pas réussi à comprendre comment nous pouvions trouver l'adresse du réseau et l'adresse de l'hôte à l'aide du CIDR, nous n'avons donc pas pu essayer de réaliser cette fonction.
 
+## MAKEFILE :
+> fichier : makefile
+
+Nous avons réalisé un makefile, mais comme nous n'arrivions pas à compiler on ne sait pas si notre fichier makefile est bien fonctionnel. Il nous parait possible que notre makefile fonctionne.
+
 -------
 
 Encore une fois, nous sommes désolés de ne pas avoir réussi à rendre un programme fonctionnel.
